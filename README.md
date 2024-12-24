@@ -1,9 +1,10 @@
 # Description
 
 ### This is a video sorter I made for sorting video clips from length, I use this for valorant tracker highlights to sort the clips from most content to least
+### Arguable pretty useless, just thought I'd add it to my github! :D
 
-### This exports into an output markdown file so you should probably use a markdown reader such as
 
+### This exports into an output markdown file so you should probably use a markdown reader such as:
 #### - Retext - https://github.com/retext-project/retext ( Linux / Windows )
 
 # Requirements for building
